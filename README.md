@@ -6,6 +6,10 @@ This work supports policy-aligned emissions accounting for clean hydrogen deploy
 
 ---
 
+**Published paper:** N. Gohil, N. Haque, A. M. Farid, "Dynamic Carbon-Aware Operation of Electrolytic Hydrogen Production in Australia: A Spatio-Temporal Life Cycle Assessment," *Sustainability* **18**(17), 8716 (2026). [https://doi.org/10.3390/su18178716](https://doi.org/10.3390/su18178716)
+
+---
+
 ## National Relevance Summary
 
 Accurate lifecycle emissions accounting is a critical unresolved challenge in U.S. clean hydrogen deployment.
@@ -306,10 +310,6 @@ time-varying-hydrogen-carbon-intensity/
 │   └── prong3_balance_of_benefits.md
 ├── policy/
 │   └── 45V_alignment.md
-├── modeling/
-├── data/
-├── scripts/
-└── notebooks/
 ```
 
 ---
