@@ -9,7 +9,7 @@ This repository documents a time-resolved life-cycle modeling framework that qua
 ## Key Results
 
 ### Result 1 – External validation under real-world grid conditions
-**Figure 4 (Validation):** `figures/validation/Hourly_Carbon_Intensity_Validation_vs_Electricity_Maps.png`  
+**Figure 4 (Validation):** `figures/Hourly_Carbon_Intensity_Validation_vs_Electricity_Maps.png`  
 The modeled hourly carbon intensity values closely track independently reported Electricity Maps data for a representative operating period. This supports the accuracy and robustness of the proposed framework and confirms the methodology produces credible time-resolved outputs.
 
 ### Result 2 – Full-year evidence that emissions vary materially hour-to-hour
