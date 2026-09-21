@@ -2,6 +2,16 @@
 
 This document maps the contents of this repository to the three evidentiary prongs required under **Matter of Dhanasar** for National Interest Waiver adjudication.
 
+## Figure Index
+
+| Figure                                                                | File                                                                 |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Figure 1 – Hydrogen Life-Cycle System Architecture                    | `figures/H2_Lifecycle_System_Architecture.jpg`                       |
+| Figure 2 – HFGT Formal Meta-Architecture                              | `figures/Framework_HFGT_Formal_Meta_Architecture.jpg`                |
+| Figure 3 – HFGT Incidence Matrix                                      | `figures/HFGT_Incidence_Matrix.png`                                  |
+| Figure 4 – Validation Against Electricity Maps                        | `figures/Hourly_Carbon_Intensity_Validation_vs_Electricity_Maps.png` |
+| Figure 5 – Full-Year Hourly Carbon Intensity Variability (8760 hours) | `figures/results/Hourly_Grid_Carbon_Intensity_8760h.png`             |
+
 ---
 
 ## Prong 1 – The Proposed Endeavor Has Substantial Merit and National Importance
@@ -41,9 +51,11 @@ Demonstrate technical expertise, original contribution, and capacity for continu
 - **Figure 4 – Validation Against Electricity Maps**  
   Confirms accuracy of the modeling framework using independent real-world datasets.
 
-- **Publications in International Journals**  
-  - Journal of Cleaner Production  
-  - International Journal of Hydrogen Energy
+- **Peer-reviewed publication**
+  - N. Gohil, N. Haque, A. M. Farid, "Dynamic Carbon-Aware Operation of Electrolytic Hydrogen Production in Australia: A Spatio-Temporal Life Cycle Assessment," *Sustainability* **18**(17), 8716 (2026). [https://doi.org/10.3390/su18178716](https://doi.org/10.3390/su18178716)
+- **Preprints**
+  - arXiv:2506.00230 — "Enhancing Spatio-Temporal Resolution of Process-Based Life Cycle Analysis with Model-Based Systems Engineering & Hetero-functional Graph Theory"
+  - arXiv:2509.00175 — "Spatio-Temporal Life Cycle Analysis of Electrolytic H2 Production in Australia under Time-Varying CO2 Management Schemes"
 
 - **Cross-Institutional Research Collaboration**  
   - Stevens Institute of Technology  
@@ -64,7 +76,7 @@ Demonstrate that the public benefit of this work outweighs the purpose of labor 
 - **Figure 5 – Hourly Carbon Intensity Results**  
   Demonstrates the necessity of independent, non-employer-restricted research applicable across states and grid regions.
 
-- **Open, Reproducible Modeling Framework**  
+- **Documented Modeling Framework (code release in preparation)**  
   Supports federal agencies, regulators, and hydrogen developers beyond any single employer.
 
 ---
